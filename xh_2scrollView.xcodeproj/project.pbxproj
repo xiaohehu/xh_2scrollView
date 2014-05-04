@@ -21,6 +21,9 @@
 		69D22AAB19169775002607DD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69D22A8D19169775002607DD /* UIKit.framework */; };
 		69D22AB319169775002607DD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 69D22AB119169775002607DD /* InfoPlist.strings */; };
 		69D22AB519169775002607DD /* xh_2scrollViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 69D22AB419169775002607DD /* xh_2scrollViewTests.m */; };
+		69D22AC11916B24F002607DD /* image_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69D22ABE1916B24F002607DD /* image_1.jpg */; };
+		69D22AC21916B24F002607DD /* image_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69D22ABF1916B24F002607DD /* image_2.jpg */; };
+		69D22AC31916B24F002607DD /* image_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69D22AC01916B24F002607DD /* image_3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		69D22AB019169775002607DD /* xh_2scrollViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "xh_2scrollViewTests-Info.plist"; sourceTree = "<group>"; };
 		69D22AB219169775002607DD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		69D22AB419169775002607DD /* xh_2scrollViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xh_2scrollViewTests.m; sourceTree = "<group>"; };
+		69D22ABE1916B24F002607DD /* image_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_1.jpg; sourceTree = "<group>"; };
+		69D22ABF1916B24F002607DD /* image_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_2.jpg; sourceTree = "<group>"; };
+		69D22AC01916B24F002607DD /* image_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +123,9 @@
 				69D22A9B19169775002607DD /* Main.storyboard */,
 				69D22A9E19169775002607DD /* ViewController.h */,
 				69D22A9F19169775002607DD /* ViewController.m */,
+				69D22ABE1916B24F002607DD /* image_1.jpg */,
+				69D22ABF1916B24F002607DD /* image_2.jpg */,
+				69D22AC01916B24F002607DD /* image_3.jpg */,
 				69D22AA119169775002607DD /* Images.xcassets */,
 				69D22A9019169775002607DD /* Supporting Files */,
 			);
@@ -229,8 +238,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				69D22AA219169775002607DD /* Images.xcassets in Resources */,
+				69D22AC11916B24F002607DD /* image_1.jpg in Resources */,
 				69D22A9419169775002607DD /* InfoPlist.strings in Resources */,
 				69D22A9D19169775002607DD /* Main.storyboard in Resources */,
+				69D22AC21916B24F002607DD /* image_2.jpg in Resources */,
+				69D22AC31916B24F002607DD /* image_3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
