@@ -393,6 +393,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "xh_2scrollView/xh_2scrollView-Prefix.pch";
 				INFOPLIST_FILE = "xh_2scrollView/xh_2scrollView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -406,6 +407,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "xh_2scrollView/xh_2scrollView-Prefix.pch";
 				INFOPLIST_FILE = "xh_2scrollView/xh_2scrollView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -470,6 +472,7 @@
 				69D22ABA19169775002607DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		69D22ABB19169775002607DD /* Build configuration list for PBXNativeTarget "xh_2scrollViewTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +481,7 @@
 				69D22ABD19169775002607DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
